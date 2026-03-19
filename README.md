@@ -18,7 +18,12 @@
 - systems should be easy to change
 - Focus on business value: deliver whats needed.
 
+- inteface vs struct: interface can have methods that can be implemented by other interfaces/struct, struct is strict and holds only concrete data types
+eg: 
+
 ## Layers
 Transport --> Storage --> Service
 
 ![alt text](docs/img/image.png)
+
+
